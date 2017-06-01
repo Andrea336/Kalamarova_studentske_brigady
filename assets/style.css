@@ -1,0 +1,12 @@
+.template {
+    padding: 3rem 1.5rem;
+}
+
+body {
+    padding-top: 5rem;
+}
+
+.card > .card-block:first-child {
+    background-color: #0275d8;
+    color: #fff;
+}
